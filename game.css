@@ -27,9 +27,9 @@ body
 }
 #output
 {
-background: green;
+background: lightblue;
 border-radius: 10px;
-border-top: 10px solid #AA4465;
+border-top: 10px solid blue;
 padding: 10px;
 float: none;
 text-align: left;
